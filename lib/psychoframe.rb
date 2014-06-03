@@ -1,5 +1,5 @@
-require "psychoframe/version"
+require 'psychoframe/version'
+require 'psychoframe/funnel'
 
 module Psychoframe
-  # Your code goes here...
 end

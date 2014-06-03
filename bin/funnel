@@ -1,6 +1,4 @@
 #!/usr/bin/env ruby
+require 'psychoframe'
+Psychoframe::Funnel.new.run
 
-p ENV
-while line = STDIN.gets
-  p line
-end
